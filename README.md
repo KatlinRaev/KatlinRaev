@@ -12,6 +12,8 @@ I’m making the leap from engineering to data analytics, and loving every minut
 - Crime and investigations (reading, not doing)
 - Coffee (probably too much, but who's counting?)
 
+As I like to keep my workplace neat and tidy, you can find my portfolio in the [Data-Analytics-Portfolio](https://github.com/KatlinRaev/Data-Analytics-Portfolio) repository, where everything is well-organized.
+
 ---
 
 **From engineering to analytics, powered by data and caffeine.**
