@@ -3,9 +3,9 @@
 I’m making the leap from engineering to data analytics, and loving every minute of it.
 
 ### 📚 Currently:
-- Student at Turing College (Data Analytics)
+- Finishing studies at Turing College (Data Analytics)✅
 - Completed Vali-IT Programming Course ✅
-- SQL, Excel, Agile Fundamentals (and more self-studied along the way)
+- SQL, Excel, Agile Fundamentals (and more self-studied along the way)✅
 
 ### ⚡ Things I Enjoy:
 - Watching sports (playing them... occasionally)
